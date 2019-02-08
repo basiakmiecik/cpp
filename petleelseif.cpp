@@ -1,5 +1,7 @@
+/*
 #include <iostream>
 #include <algorithm>
+*/
 /*
 
 int main(){
@@ -22,9 +24,11 @@ int main(){
     }
 
     return 0;
-}*/
+}*//*
 
 
+
+*/
 /*
 int main()
 {
@@ -49,11 +53,15 @@ int main()
     }
 
     return 0;
-}*/
+}*//*
 
+
+*/
 /*int main()
 {
-    *//*int liczbaA(0);
+    *//*
+*/
+/*int liczbaA(0);
     int liczbaB(0);
     int liczbaC(0);
 
@@ -61,7 +69,11 @@ int main()
     std::cin>>liczbaA>>liczbaB>>liczbaC;
     std::cout<<std::max(liczbaA,std::max(liczbaB,liczbaC))<< '\n';
 *//*
-    *//*if(liczbaA>=liczbaB && liczbaA>=liczbaC)
+*/
+/*
+    *//*
+*/
+/*if(liczbaA>=liczbaB && liczbaA>=liczbaC)
     {
         std::cout<<liczbaA;
     }
@@ -72,8 +84,10 @@ int main()
     else
     {
         std::cout<<liczbaC;
-    }*/
+    }*//*
 
+
+*/
 /*    int main()
 {
         std::cout<<"Podaj współczynnik funkcji kwadratowej typu: Ax^2+Bx+C=0"<<std::endl;
@@ -116,7 +130,8 @@ int main()
         }
 
     return 0;
-}*/
+}*//*
+
 
 
 int main(){
@@ -151,3 +166,4 @@ int main(){
         }
     return 0;
     }
+*/
