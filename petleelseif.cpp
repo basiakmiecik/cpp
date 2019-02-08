@@ -88,8 +88,8 @@ int main()
             int delta=wspB^2-4*wspA*wspC;
             if (delta > 0)
             {
-                std::cout << "Miejsca zerowe funkcji o podanych współczynnikach to:" << (-wspB + delta) / (wspA * 2)
-                          << " oraz " << (-wspB - delta) / (wspA * 2);
+                std::cout << "Miejsca zerowe funkcji o podanych współczynnikach to:" << (-wspB + delta^(0.5)) / (wspA * 2)
+                          << " oraz " << (-wspB - delta^(0.5)) / (wspA * 2);
             }
             else if(delta==0)
             {
